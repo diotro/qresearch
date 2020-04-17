@@ -58,12 +58,6 @@ import math
 import itertools
 
 #-----------------
-# Imports for Library
-
-import textwrap
-from backports.shutil_get_terminal_size import get_terminal_size
-
-#-----------------
 # Imports for gematria tool
 
 #import HTMLParser
