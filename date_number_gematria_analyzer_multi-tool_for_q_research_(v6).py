@@ -4,7 +4,7 @@
 Linux (Ubuntu) Installation Instructions:
 Linux generally comes preinstalled with Python, so just execute the command below:
 
-sudo apt install -y xclip libncurses5-dev python-pip && pip install --upgrade pip && pip install readline pynput mpmath convertdate clipboard backports.shutil_get_terminal_size
+sudo apt install -y xclip libncurses5-dev python-pip && pip install --upgrade pip && pip install readline pynput mpmath convertdate clipboard backports.shutil.get_terminal_size
 
 python '/home/user/path/to/multi_tool.py'
 
